@@ -1,0 +1,8 @@
+/.DS_Store
+/Inventory
+/README.docx
+/ansible.cfg
+/create_vms.yaml
+/playbook_master.yaml
+/playbook_step_by_step.yaml
+/variables.yaml
